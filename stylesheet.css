@@ -85,6 +85,12 @@
     border-bottom: none;
     border-right: none;
   }
+
+  ul li,
+  ol li {
+    margin-bottom: 0em;
+    font-size: 11px;
+  }
   
   strong {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
