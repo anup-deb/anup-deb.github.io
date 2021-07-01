@@ -73,8 +73,13 @@
     color: #f09228;
     text-decoration: none;
   }
-
-  body {
+  
+  body,
+  td,
+  th,
+  tr,
+  p,
+  a {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 11px;
     border-bottom: none;
