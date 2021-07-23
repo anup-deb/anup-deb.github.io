@@ -74,7 +74,7 @@
     text-decoration: none;
   }
   
-  .new {
+  td, th, tr, p, a.new, body.new {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 11px;
     border-bottom: none;
@@ -84,7 +84,6 @@
   ul li,
   ol li {
     margin-bottom: 0em;
-    font-size: 11px;
   }
   
   strong {
